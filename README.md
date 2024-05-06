@@ -5,7 +5,7 @@ Cette application développée en MATLAB propose deux fonctionnalités principal
 
 ## Fonctionnalités
 1. **Conversion de Texte en Parole :** Permet à l'utilisateur de saisir un texte et de le faire prononcer par l'application, en utilisant les capacités de synthèse vocale de MATLAB et des API externes le cas échéant.
-
+![image](https://github.com/marzouki-mohammed/TexteEnParole_ReconnaissanceVocale/assets/168875780/4059c0a7-3697-4391-b2d3-a2242a0a6ca6)
 2. **Reconnaissance Vocale :** Identifie et authentifie la personne à partir d'un enregistrement vocal. Cette fonctionnalité combine le traitement du signal audio de MATLAB avec des algorithmes de reconnaissance vocale et des API externes pour une identification précise(Je n'ai pas terminé cette partie, une fois terminée, je la posterai).
 
 ## Utilisation
